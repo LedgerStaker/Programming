@@ -1,7 +1,7 @@
 ## Programming Portfolio 
 By Ledger Staker
 
-mailto: LedgStak9716@granitesd.org
+mailto: LedgerStaker7@gmail.org
 
 ## Calculator
 Calculator made my Ledger Staker
