@@ -3,7 +3,7 @@ By Ledger Staker
 
 mailto: LedgerStaker7@gmail.org
 
-## Calculator
+# Calculator
 An OOP solution for a calculator that will add, subtract, divide, and multiply made by Ledger Staker
 
 ## Image Of Calculator
@@ -12,7 +12,7 @@ An OOP solution for a calculator that will add, subtract, divide, and multiply m
 ## Source Code
 [Calc Code](https://github.com/LedgerStaker/Programming/files/8755393/Calculator.zip)
 
-## Cars
+# Cars
 An OOP solution for cars that drive acroos the screen made by Ledger Staker
 
 ## Image Of Cars
