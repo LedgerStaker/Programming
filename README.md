@@ -13,7 +13,7 @@ An OOP solution for a calculator that will add, subtract, divide, and multiply m
 [Calc Code](https://github.com/LedgerStaker/Programming/files/8755393/Calculator.zip)
 
 ## Cars
-An OOP solution for  made by Ledger Staker
+An OOP solution for cars that drive acroos the screen made by Ledger Staker
 
 ## Image Of Cars
 ![Cars](https://github.com/LedgerStaker/Programming/blob/main/IMAGES/Cars.png?raw=true)
