@@ -39,3 +39,11 @@ An OOP solution for a SpaceGame where you can shoot asteroids and try to survive
 ## Source Code
 [SpaceGame Code](https://github.com/LedgerStaker/Programming/files/8755604/SpaceGame.zip)
 
+# MiniShips
+OOP solution for a one player game of typing in locations to try and hit the enemys ships made by Ledger Staker
+
+## Image Of MiniShips
+![MiniShips](https://github.com/LedgerStaker/Programming/blob/main/IMAGES/ScreenSaver.png?raw=true)
+
+## Source Code
+[MiniShips Code](https://github.com/LedgerStaker/Programming/files/8755568/ScreenSaver.zip)
