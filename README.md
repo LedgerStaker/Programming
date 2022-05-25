@@ -7,10 +7,10 @@ mailto: LedgerStaker7@gmail.org
 An OOP solution for a calculator that will add, subtract, divide, and multiply made by Ledger Staker
 
 ## Image Of Calculator
-![Calc](https://github.com/LedgerStaker/Programming/blob/main/IMAGES/Calc.png?raw=true)
+![Calculator](https://github.com/LedgerStaker/Programming/blob/main/IMAGES/Calc.png?raw=true)
 
 ## Source Code
-[Calc Code](https://github.com/LedgerStaker/Programming/files/8755393/Calculator.zip)
+[Calculator Code](https://github.com/LedgerStaker/Programming/files/8755393/Calculator.zip)
 
 # Cars
 An OOP solution for cars that drive across the screen made by Ledger Staker
@@ -46,4 +46,4 @@ OOP solution for a one player game of typing in locations to try and hit the ene
 ![MiniShips]()
 
 ## Source Code
-[MiniShips Code]()
+[MiniShips Code](https://github.com/LedgerStaker/Programming/files/8771592/MiniShips.zip)
